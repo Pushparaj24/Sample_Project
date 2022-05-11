@@ -1,3 +1,3 @@
-print "helloo"
-print "Python"
-print "World"
+print("helloo")
+print("Python")
+print("World")
